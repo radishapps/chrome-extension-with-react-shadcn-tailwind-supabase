@@ -40,7 +40,7 @@ Before you get started, please make sure you have the following installed:
 3. **Configure environment variables**
    - Copy the example environment file:
    ```bash
-   cp apps/extension-ichigo/.env.example apps/extension-ichigo/.env
+   cp .env.example .env
    ```
    - Edit the `.env` file with your configuration:
 
