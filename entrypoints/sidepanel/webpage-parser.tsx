@@ -293,6 +293,9 @@ export function WebpageParser() {
       console.error('Error processing with BAML:', error);
       setStreamingProgress('');
       
+      // Set apiNotConfigured to true when API errors
+      setApiNotConfigured(true);
+      
       // Create a timestamp for the current time
       const now = new Date().toISOString();
       

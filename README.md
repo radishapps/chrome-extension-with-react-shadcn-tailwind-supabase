@@ -1,6 +1,7 @@
 <p align="center">
    <video src="demo/demo.mp4"></video>
   <img src="demo/demo.png" height="300" alt="AgentGPT Logo"/>
+  <img src="demo/demo2.png" height="300" alt="AgentGPT Logo"/>
 </p>
 <p align="center">
   <em>This is a boilerplate and starter for Chrome browser extension, built with Wxt、 React、 Tailwind css 、Shadcn ui and Typescript.
