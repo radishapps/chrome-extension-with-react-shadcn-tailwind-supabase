@@ -1,0 +1,10 @@
+{
+  "home": "Home",
+  "settings": "Settings",
+  "webpage-parser": "Webpage Parser",
+  "themeSettings": "Theme Settings",
+  "i18nSettings": "Interface Language",
+  "introduce": "Welcome to Radish Chrome Boilerplate",
+  "description": "A starter template for Chrome extensions with React, Tailwind CSS, Shadcn UI components, and Supabase integration.",
+  "reference": "How To's"
+}

@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Radish Chrome Boilerplate"
+  },
+  "extDescription": {
+    "message": "Chrome扩展程序起始模板，支持React, Tailwind CSS, Shadcn UI组件和Supabase集成。"
+  }
+}

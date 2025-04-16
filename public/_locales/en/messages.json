@@ -1,0 +1,8 @@
+{
+  "extName": {
+    "message": "Radish Chrome Boilerplate"
+  },
+  "extDescription": {
+    "message": "Chrome extension starter template with React, Tailwind CSS, Shadcn UI components, and Supabase integration."
+  }
+}
